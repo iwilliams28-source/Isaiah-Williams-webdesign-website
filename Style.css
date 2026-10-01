@@ -37,7 +37,7 @@ a {color: rgb(218, 201, 201);}
 img {
     width: 300px;
     border: 4px mediumseagreen;
-    border-radius: 13px;
+    border-radius: 13px; 
 }
 
 li {color:blue;
